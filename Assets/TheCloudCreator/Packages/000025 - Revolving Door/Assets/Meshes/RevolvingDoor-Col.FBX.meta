@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 4d506ed8a8adcf94c8f959505ad612c5
+timeCreated: 1495190450
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: RevolvingDoor_Collider
+    100002: //RootNode
+    100004: SlidingDoor1_Collider
+    100006: SlidingDoor2_Collider
+    100008: SlidingDoor3_Collider
+    100010: SlidingDoor4_Collider
+    100012: Structure_Collider
+    100014: RevolvingDoor_Col
+    100016: SlidingDoor1_Col
+    100018: SlidingDoor2_Col
+    100020: SlidingDoor3_Col
+    100022: SlidingDoor4_Col
+    100024: Structure_Col
+    400000: RevolvingDoor_Collider
+    400002: //RootNode
+    400004: SlidingDoor1_Collider
+    400006: SlidingDoor2_Collider
+    400008: SlidingDoor3_Collider
+    400010: SlidingDoor4_Collider
+    400012: Structure_Collider
+    400014: RevolvingDoor_Col
+    400016: SlidingDoor1_Col
+    400018: SlidingDoor2_Col
+    400020: SlidingDoor3_Col
+    400022: SlidingDoor4_Col
+    400024: Structure_Col
+    2300000: RevolvingDoor_Collider
+    2300002: SlidingDoor1_Collider
+    2300004: SlidingDoor2_Collider
+    2300006: SlidingDoor3_Collider
+    2300008: SlidingDoor4_Collider
+    2300010: Structure_Collider
+    2300012: RevolvingDoor_Col
+    2300014: SlidingDoor1_Col
+    2300016: SlidingDoor2_Col
+    2300018: SlidingDoor3_Col
+    2300020: SlidingDoor4_Col
+    2300022: Structure_Col
+    3300000: RevolvingDoor_Collider
+    3300002: SlidingDoor1_Collider
+    3300004: SlidingDoor2_Collider
+    3300006: SlidingDoor3_Collider
+    3300008: SlidingDoor4_Collider
+    3300010: Structure_Collider
+    3300012: RevolvingDoor_Col
+    3300014: SlidingDoor1_Col
+    3300016: SlidingDoor2_Col
+    3300018: SlidingDoor3_Col
+    3300020: SlidingDoor4_Col
+    3300022: Structure_Col
+    4300000: SlidingDoor3_Collider
+    4300002: SlidingDoor4_Collider
+    4300004: SlidingDoor1_Collider
+    4300006: SlidingDoor2_Collider
+    4300008: RevolvingDoor_Collider
+    4300010: Structure_Collider
+    4300012: SlidingDoor3_Col
+    4300014: SlidingDoor4_Col
+    4300016: SlidingDoor1_Col
+    4300018: SlidingDoor2_Col
+    4300020: RevolvingDoor_Col
+    4300022: Structure_Col
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
